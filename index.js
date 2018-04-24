@@ -10,8 +10,15 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
-function sayHiToGrandma(string) {
-  return string.toLowerCase()
-if sayHiToGrandma(string) === sayHiToGrandma(string.toUpperCase)
-else 
+function sayHiToGrandma(string) { 
+  
+  if (//the string passed in is 	equal to string.upperCase()) {
+    //the tests are looking for you to return a specific sentence
+    } else if (//the string passed in is equal to string.lowerCase(){
+      //the tests are looking for you to return a specific sentence
+        }else{
+          //the last scenario sentence
+          }
+    
+}
 }
