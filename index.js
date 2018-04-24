@@ -13,7 +13,7 @@ function logWhisper(string) {
 function sayHiToGrandma(string) { 
   
   if sayHiToGrandma(string) === sayHiToGrandma(string.toUpperCase)
-    return 
+    return "YES INDEED!"
     } else if (//the string passed in is equal to string.lowerCase(){
       //the tests are looking for you to return a specific sentence
         }else{
