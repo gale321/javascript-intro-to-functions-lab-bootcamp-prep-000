@@ -12,7 +12,7 @@ function logWhisper(string) {
 }
 function sayHiToGrandma(string) { 
   
-  if (//the string passed in is 	equal to string.upperCase()) {
+  if sayHiToGrandma(string) === sayHiToGrandma(string.toUpperCase)
     //the tests are looking for you to return a specific sentence
     } else if (//the string passed in is equal to string.lowerCase(){
       //the tests are looking for you to return a specific sentence
