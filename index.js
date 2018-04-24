@@ -15,9 +15,9 @@ function sayHiToGrandma(string) {
   if sayHiToGrandma(string) === sayHiToGrandma(string.toUpperCase()){
     return "YES INDEED!"
     } else if sayHiToGrandma(string) === sayHiToGrandma(string.lowerCase()){
-      return 
+      return "I can\'t hear you!"
         }else{
-          //the last scenario sentence
+          
           }
     
 }
